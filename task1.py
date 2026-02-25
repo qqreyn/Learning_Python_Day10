@@ -3,3 +3,4 @@ person = {
     "age": 17,
     "city": "Warsaw"
 }
+print(person)
